@@ -1,6 +1,6 @@
 # DocStruct - From Chaos to Cohesion Elevate Your Document Game in Construction !
 
-![Docstruct](https://github.com/dishantzaveri/Synergy_EnemiesOfSyntax/assets/80118978/07a7a923-9052-4f6f-a397-133ceac1d742)
+![Docstruct](https://github.com/dishantzaveri/DocStruct/assets/80118978/528f7f3a-c013-4be3-bd5e-f22254e5c016)
 
 
 Docstruct is a cutting-edge file management system designed specifically for professionals in the construction and civil engineering sectors. This solution addresses the common challenges of managing a vast ecosystem of digital and physical documents, plans, and project-related information scattered across various devices and cloud services. By centralizing document storage, enhancing collaboration, and streamlining file navigation, Docstruct empowers teams to work more efficiently and effectively.
@@ -35,7 +35,10 @@ The construction industry's document management landscape is fraught with ineffi
 
 # Implementation
 
-https://github.com/dishantzaveri/Synergy_EnemiesOfSyntax/assets/80118978/5fbb7d84-580a-4691-b640-db130006103f
+
+
+https://github.com/dishantzaveri/DocStruct/assets/80118978/f1bd6df0-fd6c-4119-b5d0-0aae049f7713
+
 
 #  💻 Tech Stacks 
 
@@ -66,15 +69,18 @@ Each of these technologies has been selected for their proven reliability and al
 [![Fastify](https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)](https://www.fastify.io/)
 
 
+
 # Software Architecture 
-![DocStructArchi](https://github.com/dishantzaveri/Synergy_EnemiesOfSyntax/assets/80118978/afe8442d-e6ed-4168-91e5-cd7d41f0ca51)
+
+![DocStructArchi](https://github.com/dishantzaveri/DocStruct/assets/80118978/8d98e338-3dc6-41d6-a5a0-6be7804f462f)
+
 
 <br />
 
 ---
 
 
-## 🚀️ **Future Scope**
+# 🚀️ **Future Scope**
 - [ ] 1. Scalable Role-Based Access Controls
 - [ ] 2. Analytical Tools and Insights
 - [ ] 3. Support for Industry Tools and Collaborations
@@ -85,11 +91,9 @@ Each of these technologies has been selected for their proven reliability and al
 
 ---
 
-## 🫂️ **Team Members**
+# **Team Members**
 
 - 😴️ Prerak Gada
 - 😎️ Dishant Zaveri
 - 🙂️ Aman Nambisan
 - 🤓 Mann Bhanushali
-
-
