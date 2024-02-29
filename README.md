@@ -56,8 +56,6 @@ The Docstruct system is built on a foundation of robust and modern technologies 
 
 **Node.js**: Powers the backend infrastructure, enabling efficient handling of concurrent user interactions and real-time updates across the platform.
 
-**Fastify**: A high-performance Node.js web framework used to build fast and scalable server-side applications for Docstruct.
-
 Each of these technologies has been selected for their proven reliability and alignment with the product's goals of providing a seamless document management experience for construction and civil engineering professionals.
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
@@ -66,9 +64,6 @@ Each of these technologies has been selected for their proven reliability and al
 [![Dart](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node-dot-js&logoColor=white)](https://nodejs.org/)
-[![Fastify](https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)](https://www.fastify.io/)
-
-
 
 # Software Architecture 
 
